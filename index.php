@@ -1,3 +1,2 @@
 <?php
-  echo "Microsoft Azure"
-    echo "by: Bruno Costa"
+  echo "Bruno Costa - Microsoft Azure";
